@@ -56,3 +56,8 @@ header {
     border: none;
     cursor: pointer;
 }
+.search-button {
+    padding: 0.5rem 2rem;
+    background-color: #3498db;
+    color: white;
+}
